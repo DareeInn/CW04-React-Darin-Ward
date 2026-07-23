@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CW04-React-Darin-Ward/static/css/main.e5e0dc0a.css",
+    "main.js": "/CW04-React-Darin-Ward/static/js/main.1a7361d7.js",
+    "static/js/453.dab53130.chunk.js": "/CW04-React-Darin-Ward/static/js/453.dab53130.chunk.js",
+    "index.html": "/CW04-React-Darin-Ward/index.html",
+    "main.e5e0dc0a.css.map": "/CW04-React-Darin-Ward/static/css/main.e5e0dc0a.css.map",
+    "main.1a7361d7.js.map": "/CW04-React-Darin-Ward/static/js/main.1a7361d7.js.map",
+    "453.dab53130.chunk.js.map": "/CW04-React-Darin-Ward/static/js/453.dab53130.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e0dc0a.css",
+    "static/js/main.1a7361d7.js"
+  ]
+}
